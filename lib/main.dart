@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sandra_project/welcome.dart';
+import 'package:flutter_projectOne/welcome.dart';
 
 void main() {
   runApp(const MyApp());

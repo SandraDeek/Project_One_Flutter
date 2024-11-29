@@ -1,6 +1,6 @@
 {
-    "name": "sandra_project",
-    "short_name": "sandra_project",
+    "name": "flutter_projectOne",
+    "short_name": "flutter_projectOne",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

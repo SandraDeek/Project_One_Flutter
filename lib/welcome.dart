@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sandra_project/home.dart';
+import 'package:flutter_projectOne/home.dart';
 
 class WelcomePage extends StatefulWidget {
   const WelcomePage({super.key});

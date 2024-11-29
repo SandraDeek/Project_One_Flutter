@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sandra_project/chinesezodiac.dart';
+import 'package:flutter_projectOne/chinesezodiac.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:intl/intl.dart';
 
